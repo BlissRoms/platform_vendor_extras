@@ -39,6 +39,7 @@ PRODUCT_PACKAGES += \
     FontRobotoCondensedOverlay \
     FontRubikOverlay \
     FontSamsungOneOverlay \
+    FontSanFranciscoDisplayProSourceOverlay \
     FontSansSerifOverlay \
     FontSonySketchOverlay \
     FontStoropiaOverlay \
