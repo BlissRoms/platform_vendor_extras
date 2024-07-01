@@ -76,6 +76,11 @@ PRODUCT_PACKAGES += \
     IconPackKaiThemePickerOverlay \
     IconPackLornAndroidOverlay \
     IconPackLornSystemUIOverlay \
+    IconPackNostalgicAndroidOverlay \
+    IconPackNostalgicLauncherOverlay \
+    IconPackNostalgicSettingsOverlay \
+    IconPackNostalgicSystemUIOverlay \
+    IconPackNostalgicThemePickerOverlay \
     IconPackOOSAndroidOverlay \
     IconPackOOSLauncherOverlay \
     IconPackOOSSettingsOverlay \
@@ -117,10 +122,11 @@ PRODUCT_PACKAGES += \
     IconShapeCylinderOverlay \
     IconShapeFlowerOverlay \
     IconShapeHeartOverlay \
+    IconShapeHexagonOverlay \
     IconShapeIosOverlay \
     IconShapeLeafOverlay \
+    IconShapeMeowOverlay \
     IconShapePebbleOverlay \
-    IconShapeRohieMeowOverlay \
     IconShapeRoundedHexagonOverlay \
     IconShapeRoundedRectOverlay \
     IconShapeSamsungOverlay \
