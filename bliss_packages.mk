@@ -5,6 +5,8 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
+BLISS_EXTRAS_PATH := vendor/extras
+
 # Fonts
 PRODUCT_PACKAGES += \
     fonts_customization.xml \
@@ -48,6 +50,9 @@ PRODUCT_PACKAGES += \
     FontStoropiaOverlay \
     FontSurferOverlay \
     FontUbuntuOverlay
+
+# Game Props
+TARGET_PRODUCT_PROP += $(BLISS_EXTRAS_PATH)/gameprops/product.prop
 
 # Icon Packs
 PRODUCT_PACKAGES += \
