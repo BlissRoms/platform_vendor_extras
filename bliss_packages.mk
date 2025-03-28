@@ -258,19 +258,6 @@ PRODUCT_PACKAGES += \
     XperiaWiFiOverlay \
     ZigZagWiFiOverlay
 
-# Navbar styles
-PRODUCT_PACKAGES += \
-    NavbarAndroidOverlay \
-    NavbarAsusOverlay \
-    NavbarDoraOverlay \
-    NavbarMotoOverlay \
-    NavbarNexusOverlay \
-    NavbarOldOverlay \
-    NavbarOnePlusOverlay \
-    NavbarOneUiOverlay \
-    NavbarSammyOverlay \
-    NavbarTecnoCamonOverlay
-
 # QS UI Style
 PRODUCT_PACKAGES += \
     A11QSUI \
