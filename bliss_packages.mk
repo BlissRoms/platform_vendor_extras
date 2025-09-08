@@ -7,6 +7,8 @@
 
 BLISS_EXTRAS_PATH := vendor/extras
 
+PRODUCT_PACKAGE_OVERLAYS += vendor/extras/overlay/common
+
 # Clocks
 PRODUCT_PACKAGES += \
     SystemUIClocks-BigNum \
